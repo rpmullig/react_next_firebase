@@ -1,1 +1,5 @@
-# react_next_firebase
+# Fireship Course
+
+### React, Next, Firebase tutorial
+
+
